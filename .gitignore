@@ -1,0 +1,19 @@
+# Build artifacts / secrets
+node_modules/
+bin/
+obj/
+.vs/
+.venv/
+venv/
+__pycache__/
+dist/
+build/
+.env
+.env.*
+!.env.example
+exports/
+*.log
+*.csv
+*.xlsx
+Thumbs.db
+.DS_Store
